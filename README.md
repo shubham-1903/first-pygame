@@ -24,7 +24,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -33,7 +32,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/shubham-1903/first-pygame">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Simple Pygame</h3>
@@ -108,10 +107,9 @@ To get a local copy up and running follow these simple steps.
 
 You need to have python installed in your machine
 if not do these steps...
-* python
-  ```sh
-  Download Links [https://www.python.org/downloads/](https://www.python.org/downloads/)
-  ```
+##### python
+
+Download Links [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 
 ### Installation
@@ -185,7 +183,7 @@ Project Link: [https://github.com/shubham-1903/first-pygame](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/first-pygame.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/shubham-1903/first-pygame.svg?style=for-the-badge
 [contributors-url]: https://github.com/shubham-1903/first-pygame/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/shubham-1903/first-pygame.svg?style=for-the-badge
 [forks-url]: https://github.com/shubham-1903/first-pygame/network/members
